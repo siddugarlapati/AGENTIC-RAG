@@ -559,7 +559,7 @@ MIT License - see [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <strong>Built with ❤️ for the AI Community</strong><br>
+  
   <em>Making Agentic RAG accessible to everyone</em>
 </p>
 
