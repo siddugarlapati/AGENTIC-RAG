@@ -9,7 +9,7 @@ Build a sophisticated RAG system that uses multiple AI agents to retrieve inform
 [![CrewAI](https://img.shields.io/badge/CrewAI-Latest-green.svg)](https://www.crewai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Agentic RAG Demo](assets/thumbnail.png)
+
 
 ---
 
